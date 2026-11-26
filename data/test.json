@@ -1,0 +1,617 @@
+[
+  {
+    "id": "v-000010010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000110000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-100000001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-011000000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-100000010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000100001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-100100100",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001000101",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-010010010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001101000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-010000110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-010001100",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-110100001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-101000110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000111001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-011001010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000101110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-110011000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "c3-AC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "A",
+          [
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-BAC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "B",
+          [
+            "A",
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-ABC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "A",
+          [
+            "B",
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-C",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "C",
+          []
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-CA",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "C",
+          [
+            "A"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-BC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "B",
+          [
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-BCD-C",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "B",
+          [
+            "C",
+            "D"
+          ]
+        ],
+        [
+          "C",
+          []
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-CD-D",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "C",
+          [
+            "D"
+          ]
+        ],
+        [
+          "D",
+          []
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-BAC-DABC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "B",
+          [
+            "A",
+            "C"
+          ]
+        ],
+        [
+          "D",
+          [
+            "A",
+            "B",
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-BCD-CD",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "B",
+          [
+            "C",
+            "D"
+          ]
+        ],
+        [
+          "C",
+          [
+            "D"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-C-DAC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "C",
+          []
+        ],
+        [
+          "D",
+          [
+            "A",
+            "C"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-CAB-DABC",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "C",
+          [
+            "A",
+            "B"
+          ]
+        ],
+        [
+          "D",
+          [
+            "A",
+            "B",
+            "C"
+          ]
+        ]
+      ]
+    }
+  }
+]

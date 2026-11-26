@@ -1,0 +1,206 @@
+[
+  {
+    "id": "v-010000010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-110000000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001000011",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-101000001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-010010110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000110101",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "c3-CB",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "C",
+          [
+            "B"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c3-CAB",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C"
+      ],
+      "reaches": [
+        [
+          "C",
+          [
+            "A",
+            "B"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-AD-CAD",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "A",
+          [
+            "D"
+          ]
+        ],
+        [
+          "C",
+          [
+            "A",
+            "D"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "c4-A-CB",
+    "domain": "causal",
+    "observation": {
+      "nodes": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "reaches": [
+        [
+          "A",
+          []
+        ],
+        [
+          "C",
+          [
+            "B"
+          ]
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,9 @@
+.runtime/
+deliverables/
+.venv/
+__pycache__/
+*.py[cod]
+*.tmp
+.env
+checkpoints/
+run.lock

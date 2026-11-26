@@ -1,0 +1,344 @@
+[
+  {
+    "id": "v-001000010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001000001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-000001001",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-001100000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-010001000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-100100000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-011000010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-111000000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001010100",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000100011",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-001110000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000100110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-100111000",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-110001100",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-000011110",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-100110010",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "v-001000111",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "v-000101101",
+    "domain": "voxel",
+    "observation": {
+      "grid": 3,
+      "height": 3,
+      "top": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1
+      ]
+    }
+  }
+]

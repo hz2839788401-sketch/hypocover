@@ -1,0 +1,62 @@
+{
+  "protocol": {
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "methods": [
+      "iid",
+      "memory",
+      "static",
+      "oracle",
+      "bandit",
+      "tilt",
+      "adaptive"
+    ],
+    "domains": [
+      "voxel"
+    ],
+    "limit": 0,
+    "budget": 12,
+    "repeats": 1,
+    "seed": 8128,
+    "batch_size": 64,
+    "threads": 10,
+    "max_new_tokens": 7,
+    "memory": 6,
+    "decay": 0.9,
+    "tilt": 2.5,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "device": "auto",
+    "dtype": "auto",
+    "task_ids": [
+      "v-000010010",
+      "v-000110000",
+      "v-100000001",
+      "v-011000000",
+      "v-100000010",
+      "v-000100001",
+      "v-100100100",
+      "v-001000101",
+      "v-010010010",
+      "v-001101000",
+      "v-010000110",
+      "v-010001100",
+      "v-110100001",
+      "v-101000110",
+      "v-000111001",
+      "v-011001010",
+      "v-000101110",
+      "v-110011000"
+    ],
+    "observations_sha256": "30ec15915252a59c07ac60e88dae7cad2b53cfc9345ca4e479631c7c5ed87e7c",
+    "oracle_histogram_sha256": "86d63425ef9a49cbd5bc2e8461b87dc8bde756388f182869c07a0569ee289a98"
+  },
+  "model": {
+    "checkpoint": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": null,
+    "torch": "2.15.0+cpu",
+    "transformers": "5.24.1",
+    "device": "cpu",
+    "hardware": "CPU",
+    "dtype": "float32"
+  }
+}

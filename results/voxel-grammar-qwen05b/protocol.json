@@ -1,0 +1,56 @@
+{
+  "protocol": {
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "methods": [
+      "grammar",
+      "grammar_tilt"
+    ],
+    "domains": [
+      "voxel"
+    ],
+    "limit": 0,
+    "budget": 12,
+    "repeats": 1,
+    "seed": 8128,
+    "batch_size": 36,
+    "threads": 6,
+    "max_new_tokens": 5,
+    "memory": 6,
+    "decay": 0.9,
+    "tilt": 2.5,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "device": "auto",
+    "dtype": "auto",
+    "task_ids": [
+      "v-001000010",
+      "v-001000001",
+      "v-000001001",
+      "v-001100000",
+      "v-010001000",
+      "v-100100000",
+      "v-011000010",
+      "v-111000000",
+      "v-001010100",
+      "v-000100011",
+      "v-001110000",
+      "v-000100110",
+      "v-100111000",
+      "v-110001100",
+      "v-000011110",
+      "v-100110010",
+      "v-001000111",
+      "v-000101101"
+    ],
+    "observations_sha256": "fae970b4140b4c60ca496b02ee80c52de055a753b1481bb05f2720b54c143c41"
+  },
+  "model": {
+    "checkpoint": "Qwen/Qwen2.5-0.5B-Instruct",
+    "revision": null,
+    "torch": "2.15.0+cpu",
+    "transformers": "5.24.1",
+    "device": "cpu",
+    "hardware": "CPU",
+    "dtype": "float32"
+  }
+}
